@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex03_Inheritance_Composition\bin\Debug\Ex03_Inheritance_Composition.exe.config
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex03_Inheritance_Composition\bin\Debug\Ex03_Inheritance_Composition.exe
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex03_Inheritance_Composition\bin\Debug\Ex03_Inheritance_Composition.pdb
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex03_Inheritance_Composition\obj\Debug\Ex03_Inheritance_Composition.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex03_Inheritance_Composition\obj\Debug\Ex03_Inheritance_Composition.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex03_Inheritance_Composition\obj\Debug\Ex03_Inheritance_Composition.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex03_Inheritance_Composition\obj\Debug\Ex03_Inheritance_Composition.exe
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex03_Inheritance_Composition\obj\Debug\Ex03_Inheritance_Composition.pdb

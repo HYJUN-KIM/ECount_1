@@ -1,0 +1,8 @@
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex01_OOP\bin\Debug\Ex01_OOP.exe.config
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex01_OOP\bin\Debug\Ex01_OOP.exe
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex01_OOP\bin\Debug\Ex01_OOP.pdb
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.csproj.AssemblyReference.cache
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.csproj.SuggestedBindingRedirects.cache
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.csproj.CoreCompileInputs.cache
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.exe
+C:\ECount\Labs\BasicFrameWork\OOPFrameWork\Ex01_OOP\obj\Debug\Ex01_OOP.pdb
